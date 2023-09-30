@@ -2,6 +2,7 @@
 __pycache__/
 virtualenvironment/
 .idea/
+.vscode/
 *.py[cod]
 *$py.class
 .vs/
