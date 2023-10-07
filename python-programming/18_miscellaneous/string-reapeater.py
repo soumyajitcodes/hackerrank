@@ -19,5 +19,5 @@ def repeater(string):
 
 if __name__=='__main__':
     # string=input()
-    string="welco5me2"
+    string="welcome"
     print(repeater(string))
